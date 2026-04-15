@@ -1,0 +1,298 @@
+# depslib dependency file v1.0
+1745913823 source:c:\codefiles\tcgproject\main.cpp
+	<cmath>
+	<GL/glut.h>
+	"arena.hpp"
+
+1745878097 c:\codefiles\tcgproject\tools.hpp
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<sstream>
+	<string>
+	<vector>
+	<GL/glut.h>
+	"stb_image.h"
+
+1745453894 c:\codefiles\tcgproject\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1745906056 c:\codefiles\tcgproject\model_tools.hpp
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<sstream>
+	<string>
+	<vector>
+	<GL/glut.h>
+	"stb_image.h"
+
+1745902516 source:c:\codefiles\tcgproject\game_logic.hpp
+	<GL/gl.h>
+	"model_tools.hpp"
+
+1745913582 c:\codefiles\tcgproject\chickenjockey.hpp
+	<iostream>
+	"object.hpp"
+
+1745903708 source:c:\codefiles\tcgproject\model_tools2.hpp
+
+1745905986 source:c:\codefiles\tcgproject\chickenjockey.hpp
+	<iostream>
+	"model_tools.hpp"
+
+1745905897 source:c:\codefiles\tcgproject\model_tools.hpp
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<sstream>
+	<string>
+	<vector>
+	<GL/glut.h>
+	"stb_image.h"
+
+1745913605 source:c:\codefiles\tcgproject\body.hpp
+
+1745909043 c:\codefiles\tcgproject\object.hpp
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<sstream>
+	<string>
+	<vector>
+	<GL/glut.h>
+	"stb_image.h"
+
+1745906576 c:\codefiles\tcgproject\texture.hpp
+	<GL/glut.h>
+	"stb_image.h"
+
+1745913475 c:\codefiles\tcgproject\body.hpp
+
+1745913303 c:\codefiles\tcgproject\arena.hpp
+	"chickenjockey.hpp"
+
+1749366160 source:c:\cppfiles\tcgproject\main.cpp
+	<chrono>
+	<iostream>
+	<windows.h>
+	<GL/glut.h>
+	"game.hpp"
+
+1745856288 c:\cppfiles\tcgproject\object.hpp
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<sstream>
+	<string>
+	<vector>
+	<GL/glut.h>
+	"stb_image.h"
+
+1745396296 c:\cppfiles\tcgproject\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1747671596 c:\cppfiles\tcgproject\chickenjockey.hpp
+	"tools.hpp"
+
+1745985922 c:\cppfiles\tcgproject\loader.hpp
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<sstream>
+	<string>
+	<vector>
+	<GL/glut.h>
+	"stb_image.h"
+
+1746015978 c:\cppfiles\tcgproject\body.hpp
+
+1746261294 c:\cppfiles\tcgproject\arena.hpp
+	<cmath>
+	"tools.hpp"
+	"chickenjockey.hpp"
+
+1749370398 c:\cppfiles\tcgproject\game.hpp
+	<cmath>
+	<iostream>
+	"tools.hpp"
+	"env.hpp"
+	"characters/voltorb.hpp"
+	"characters/doraemon.hpp"
+	"characters/chickenjockey.hpp"
+
+1746259557 c:\cppfiles\tcgproject\menu.hpp
+	<iostream>
+	"tools.hpp"
+
+1749179002 c:\cppfiles\tcgproject\tools.hpp
+	<algorithm>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<sstream>
+	<string>
+	<vector>
+	<GL/glut.h>
+	"stb_image.h"
+	"miniaudio.h"
+
+1746765916 c:\cppfiles\tcgproject\miniaudio.h
+	<cctype>
+	<cstring>
+	"miniaudio.h"
+	"miniaudio.c"
+	<stddef.h>
+	<stdint.h>
+	<pthread.h>
+	<stdalign.h>
+	<stdarg.h>
+	<assert.h>
+	<limits.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<stdio.h>
+	<strings.h>
+	<wchar.h>
+	<float.h>
+	<windows.h>
+	<sched.h>
+	<sys/time.h>
+	<pthread.h>
+	<time.h>
+	<sys/stat.h>
+	<emscripten/emscripten.h>
+	<stdint.h>
+	<immintrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<intrin.h>
+	<sys/system_properties.h>
+	<errno.h>
+	<android/log.h>
+	<intrin.h>
+	<dlfcn.h>
+	<AvailabilityMacros.h>
+	<mach/mach_time.h>
+	<sys/types.h>
+	<unistd.h>
+	<dlfcn.h>
+	<audioclient.h>
+	<mmdeviceapi.h>
+	<poll.h>
+	<sys/eventfd.h>
+	<alsa/asoundlib.h>
+	<errno.h>
+	<pulse/pulseaudio.h>
+	<jack/jack.h>
+	<TargetConditionals.h>
+	<CoreAudio/CoreAudio.h>
+	<AVFoundation/AVFoundation.h>
+	<AudioToolbox/AudioToolbox.h>
+	<fcntl.h>
+	<sys/audioio.h>
+	<sys/soundcard.h>
+	<fcntl.h>
+	<poll.h>
+	<errno.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<sys/ioctl.h>
+	<sys/audioio.h>
+	<sys/param.h>
+	<sys/param.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/soundcard.h>
+	<AAudio/AAudio.h>
+	<SLES/OpenSLES.h>
+	<SLES/OpenSLES_Android.h>
+	<emscripten/emscripten.h>
+	<emscripten/webaudio.h>
+	<stddef.h>
+	<stddef.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<stdio.h>
+	<wchar.h>
+	<assert.h>
+	<endian.h>
+	<stdlib.h>
+	<string.h>
+	<smmintrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<intrin.h>
+	<assert.h>
+	<intrinsics.h>
+	<intrin.h>
+	<stdio.h>
+	<wchar.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<intrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<assert.h>
+	<stdio.h>
+	<wchar.h>
+
+1746698705 c:\cppfiles\tcgproject\mafix.hpp
+	<cctype>
+	<cstring>
+
+1746698705 c:\cppfiles\tcgproject\fix.hpp
+	<cctype>
+	<cstring>
+
+1746947275 c:\cppfiles\tcgproject\momoi.hpp
+	"tools.hpp"
+
+1749366481 c:\cppfiles\tcgproject\env.hpp
+
+1749368631 c:\cppfiles\tcgproject\characters\chickenjockey.hpp
+	"../tools.hpp"
+
+1748151882 c:\cppfiles\tcgproject\characters\momoi.hpp
+	"../tools.hpp"
+
+1749368608 c:\cppfiles\tcgproject\characters\doraemon.hpp
+	"../tools.hpp"
+
+1749368615 c:\cppfiles\tcgproject\characters\voltorb.hpp
+	"../tools.hpp"
+

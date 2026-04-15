@@ -1,0 +1,12 @@
+
+Please ensure that glut is installed properly.
+
+In case that the program cannot compile no matter what,
+please navigate to a zip file called "release1.1.zip".
+
+Inside the zip file, there is a precompiled glutrumble.exe file that should work out of the box.
+
+If running the .exe give you a "unknown publisher" or other similar kind of warning, please click "run anyway".
+
+If the "run anyway" option is not available, try to find a text called "More info".
+After clicking "More info", the "run anyway" button should appear.
