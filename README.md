@@ -1,6 +1,6 @@
 # GLUT RUMBLE
 
-Small 3D pokemon-like battle game made using C++, OpenGL(GLUT) and Blender.
+Small 3D pokemon-like battle game made using C++, OpenGL(freeGLUT) and Blender.
 
 Academic project from the 2025 course TCG Computer Graphics by team "Affectionate".
 
