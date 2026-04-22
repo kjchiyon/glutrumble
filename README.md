@@ -10,6 +10,8 @@ Members:
 - Chong Zheng Cheng
 - Kay Hean Cun
 
+Documentation and manual can be found in the "1.Report1F-Affecctionate.pdf" file.
+
 # Gameplay
 
 
